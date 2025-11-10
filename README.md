@@ -24,6 +24,7 @@ A powerful, modern system monitoring and optimization tool for Windows.
 ![Uploading image.png…]()
 
 
+
 ## 🚀 Quick Start
 
 1. **Download** the executable from Releases
