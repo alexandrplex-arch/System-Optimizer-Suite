@@ -21,7 +21,7 @@ A powerful, modern system monitoring and optimization tool for Windows.
 4.
 5. ## 🖼️ Screenshots
 <img width="1385" height="880" alt="image" src="https://github.com/user-attachments/assets/c14b807e-62e1-4f77-a851-4bd104c5f8f7" />
-![
+
 
 
 ## 🚀 Quick Start
